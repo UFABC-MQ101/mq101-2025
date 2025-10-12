@@ -1,0 +1,22 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto/Rmd artifacts
+*_files/
+*_cache/
+.cache/
+.DS_Store
+docs/
+
+# Python
+__pycache__/
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# OS
+Thumbs.db

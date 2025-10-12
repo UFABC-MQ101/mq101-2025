@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite este repositório ao reutilizar materiais do curso."
+title: "MQ101 — Métodos Quantitativos para Políticas Públicas 101"
+authors:
+  - family-names: "Ceneviva"
+    given-names: "Ricardo"
+    affiliation: "UFABC"
+version: "2025.09"
+license: "MIT and CC-BY-4.0"
+repository-code: "https://github.com/SEU-USUARIO/mq101"

@@ -1,0 +1,7 @@
+---
+title: Dados
+---
+
+- `data/raw/`: dados brutos (não versionados)
+- `data/processed/`: dados processados
+- `data/dictionary/`: dicionários e metadados

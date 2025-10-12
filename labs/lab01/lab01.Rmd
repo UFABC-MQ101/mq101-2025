@@ -1,0 +1,11 @@
+---
+title: "Lab 01 — Primeiros passos em R e Quarto"
+output: html_document
+---
+
+```{r}
+# Comentários: este é um chunk de R
+x <- 1:10
+mean(x)
+sessionInfo()
+```

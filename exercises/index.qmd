@@ -1,0 +1,5 @@
+---
+title: Exercícios
+---
+
+- Ex01 — Regressão linear simples (enunciado em `exercises/ex01/enunciado.md`)

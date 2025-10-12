@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MQ101 — Métodos Quantitativos para Políticas Públicas"
+  navbar:
+    left:
+      - text: Programa
+        href: syllabus/programa.qmd
+      - text: Aulas
+        menu:
+          - text: Slides
+            href: slides/index.qmd
+          - text: Laboratórios
+            href: labs/index.qmd
+      - text: Exercícios
+        href: exercises/index.qmd
+      - text: Dados
+        href: data/index.qmd
+
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: show
