@@ -1,0 +1,9 @@
+# Docentes revisam tudo
+*                   @UFABC-MQ101/docentes
+
+# Monitores cuidam de labs e exercícios
+/labs/**            @UFABC-MQ101/monitores
+/exercises/**       @UFABC-MQ101/monitores
+
+# Dados processados exigem dupla revisão (docentes)
+/data/processed/**  @UFABC-MQ101/docentes
